@@ -39,8 +39,7 @@ The goal was to practice transforming raw data into meaningful insights and pres
 ---
 
 ## 📸 Dashboard Preview
-Dashboard_Screenshot.png
-
+[Dashboard_Screenshot.png]
 ---
 
 ## 🎯 Learning Outcome
